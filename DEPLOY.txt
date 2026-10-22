@@ -1,0 +1,3 @@
+URL: https://us-sodatide-usa.vercel.app/
+Upload contents of this folder to Vercel project root
+Order: https://sodatide.nbcnewsusa.com/order/
